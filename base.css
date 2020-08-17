@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: azure;
+}
+
+.title {
+    text-align: center;
+    border-radius: 100px;
+    background: #8dc3d9;
+    width: 40%;
+    margin: 1% 30% 1% 30%;
+}
+
+.title > #title {
+    font: bold 28pt sans-serif;
+    color: #f7ffff;
+}
+
+.title > #subtitle {
+    font: bold 16pt sans-serif;
+    color: #397979;
+}
+
+.class, .lessons {
+    margin: 1%;
+    background: #ffd8b9;
+}
+
+.content {
+    margin: 1%;
+}
